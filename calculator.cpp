@@ -2,6 +2,7 @@
 #include <string>
 #include <cctype>
 #include <vector>
+#include <limits>
 
 static bool calculate(std::string& prompt)
 {
